@@ -4,15 +4,6 @@
 GMeet Clone is a video conferencing application inspired by Google Meet. It allows users to host and join virtual meetings, enabling real-time audio and video communication. This application is built using modern web technologies and frameworks, providing a seamless and interactive meeting experience.
 
 
-
-## Project team
-- [@abhi280403](https://github.com/abhi280403)
-- [@Rakshith1206](https://github.com/Rakshith1206)
-- [@rohithreddy29](https://github.com/rohithreddy29)
-- [@Kireeti03](https://github.com/Kireeti03)
-- [@abhipranav16](https://github.com/abhipranav16)
-
-
 ## Features
 
 - Host and join meetings with unique meeting IDs.
