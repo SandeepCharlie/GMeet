@@ -73,10 +73,6 @@ https://localhost:3000
 ![Whiteboard](https://github.com/abhi280403/google_meet_clone/assets/122891629/cb83c370-3919-4ca6-bba6-b55f3ed37bbe)
 
 
-## Demo video
-
-
-https://github.com/abhi280403/google_meet_clone/assets/122891629/c2a27062-41d1-41f8-a735-d44a9e45100a
 
 
 
